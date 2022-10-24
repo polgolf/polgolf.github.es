@@ -1,1 +1,3 @@
-Hola Me llamo Pol, y tengo 19 añitos.
+# Pol Gonzalez
+## Estudiante de Sistemas Microinformáticos y Redes
+#### Datos Académicos 
