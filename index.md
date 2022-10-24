@@ -67,4 +67,4 @@ Colegio Sant Josep, Sant Vicenç dels Horts. (2 meses)
 
 - Castellano nativo
 
--Inglés básico 
+- Inglés básico 
